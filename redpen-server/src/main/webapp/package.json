@@ -6,7 +6,7 @@
   "devDependencies": {
     "phantomjs-prebuilt": "^2.1.4",
     "jasmine-core" : "^2.2.0",
-    "karma": "~1.2.0",
+    "karma": "~6.4",
     "karma-jasmine": "^0.3.8",
     "karma-phantomjs-launcher": "~1.0.1"
   }
